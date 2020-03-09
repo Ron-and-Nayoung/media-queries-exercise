@@ -14,9 +14,10 @@
 
    .alert-info {
        text-align: center;
-       border: 1px solid lightgray;
+       border: 2px solid lightgray;
        padding: 15px;
        background: #ccffff;
+       margin: 10px 18px;
    }
 
    .alert-info a {
