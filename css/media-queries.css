@@ -57,13 +57,7 @@
        margin: 25px 18px;
    }
 
-   /*!*h2 {*!*/
-   /*    margin: 10px 18px;*/
-   /*    padding: 8px 0;*/
-   /*}*/
-
     .main p {
-    /*;margin-top: 10px*/
         margin-left: 0;
     }
 
@@ -85,6 +79,21 @@
     footer #social-media-links{
 
 
+    }
+
+
+
+}
+
+@media screen and (min-width:768px) {
+    *{
+        box-sizing: border-box;
+        margin: 0 auto;
+        padding:0;
+    }
+
+    .hidden-on-desktop{
+        display:none;
     }
 
 
