@@ -62,8 +62,9 @@
    /*    padding: 8px 0;*/
    /*}*/
 
-    .main p{
-        margin-top: 10px;
+    .main p {
+    /*;margin-top: 10px*/
+        margin-left: 0;
     }
 
    .sub-section {
@@ -71,11 +72,15 @@
        font-style: italic;
    }
 
-   footer{
+   footer {
        /*margin: 5px 18px 20px 18px;*/
    display:flex;
 
 
+   }
+
+   footer p {
+       margin: 0 0 15px 18px;
    }
     footer #social-media-links{
 
